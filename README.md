@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ibrahim 
+### Hi there 👋, my name is Idan Gomberg
 
 College/University student studying at Lakehead university and Georgian College in a Computer Science bridge program. Iv been coding since highschool doing mini projects, I am currently learning game development and 3d modelling.
 
