@@ -2,7 +2,7 @@
 
 Current student studying at Lakehead university and Georgian College in a Computer Science bridge program. I have been coding since highschool doing mini projects, I am currently learning game development and 3d modelling.
 
-Tech Stack:
+##Tech Stack:
 
 - Backend: Java, Python, .net Framework(C#), JavaScript
 - Frontend: HTML5, CSS3, JavaFX
