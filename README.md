@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Ibrahim 
 
-<!--
-**cronix1000/cronix1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+College/University student studying at Lakehead university and Georgian College in a Computer Science bridge program. Iv been coding since highschool doing mini projects, I am currently learning game development and 3d modelling.
 
-Here are some ideas to get you started:
+Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: Java, Python, .net Framework(C#), Vannila JS  
+- Frontend: HTML5, CSS3, JavaFX
+- Database: SSMS, MySql
+- Version Control: Git
+- IDE: Intellij IDEA, VS Code, Netbeans, Visual Studio
+- Operating: Windows
+
+Soft Skills:
+
+- Problem Solving, TeamWork, Communication 
+
+![cronix1000's github stats](https://github-readme-stats.vercel.app/api?username=cronix1000&show_icons=true&theme=radical)
