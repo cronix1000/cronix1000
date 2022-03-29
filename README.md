@@ -4,7 +4,7 @@ Current student studying at Lakehead university and Georgian College in a Comput
 
 ## Tech Stack
 
-- Backend: Java, Python, .net Framework(C#), JavaScript
+- Backend: Java, Python, .net Framework(C#), JavaScript, PHP
 - Frontend: HTML5, CSS3, JavaFX
 - Database: SSMS, MySql
 - Version Control: Git 
