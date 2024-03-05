@@ -8,7 +8,7 @@ Current student studying at Lakehead university and Georgian College in a Comput
 - Frontend: HTML5, CSS3, JavaFX
 - Database: SSMS, MySql
 - Version Control: Git 
-- Software: Blender
+- Software: Unity
 - IDE: Intellij IDEA, VS Code, Netbeans, Visual Studio
 - Operating Systems: Windows
 
